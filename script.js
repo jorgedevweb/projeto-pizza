@@ -46,7 +46,7 @@ pizzaJson.map((item, index)=>{
 c('.pizza-area').append( pizzaItem );
 });
 
-//eventos do modal
+//events do modal
 
 function closeModal() {
    
